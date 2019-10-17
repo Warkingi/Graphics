@@ -1,0 +1,3 @@
+[INFO]: Starting the GameSceneManager in file: C:\Users\ncrac\Desktop\OpenGL Project\ComponentFramework1.0.4\ComponentFramework\Main.cpp on line: 14
+[INFO]: OpenGL version: 4.4.0 - Build 21.20.16.4550 in file: C:\Users\ncrac\Desktop\OpenGL Project\ComponentFramework1.0.4\ComponentFramework\Window.cpp on line: 41
+[INFO]: Deleting the GameSceneManager in file: C:\Users\ncrac\Desktop\OpenGL Project\ComponentFramework1.0.4\ComponentFramework\GameSceneManager.cpp on line: 28
